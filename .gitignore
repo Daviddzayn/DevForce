@@ -43,3 +43,13 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# ==========================================
+# GDG Hackathon / Firebase Configuration
+# ==========================================
+# Normally, we would ignore google-services.json to protect API keys.
+# However, for the GDG Hackathon, we are explicitly NOT ignoring it 
+# so that judges can easily clone, build, and evaluate the application 
+# without needing to configure their own Firebase project.
+# 
+# !android/app/google-services.json
