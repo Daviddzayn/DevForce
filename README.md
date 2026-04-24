@@ -65,5 +65,5 @@ Usually, committing `google-services.json` is a huge Git taboo. **I explicitly l
 
 ---
 <div align="center">
-  Built with blood, sweat, and lots of coffee by <b>Nikhil</b> for GDG.
+  Built with blood, sweat, and lots of coffee by <b>VectorFlow</b> for GDG.
 </div>
