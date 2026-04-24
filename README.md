@@ -1,7 +1,9 @@
 <div align="center">
   <img src="https://img.shields.io/badge/GDG-Hackathon_Submission-blue?style=for-the-badge&logo=google" alt="GDG Hackathon" />
   <br><br>
-  <img src="assets/logo.png" alt="DevForce Logo" width="200"/>
+  
+![DevForce Logo](assets/logo.png)
+
   <h1>DevForce</h1>
   <p><b>Stop scrolling. Start building.</b></p>
   
@@ -20,7 +22,7 @@
 ## 💡 The Vision
 LinkedIn is too formal. Twitter is too noisy. Meetups only happen once a month. 
 
-**DevForce** is "Tinder for Developers" — a location-based matchmaking platform designed to connect you with local tech talent, whether you need a mentor, a UI designer, or a pair-programming buddy. Swipe, match, and collaborate in real-time.
+**DevForce** is "Tinder for Developers", a location-based matchmaking platform designed to connect you with local tech talent, whether you need a mentor, a UI designer, or a pair-programming buddy. Swipe, match, and collaborate in real-time.
 
 <div align="center">
   <!-- TODO: Drop a cool GIF of your app swiping here! -->
